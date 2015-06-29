@@ -1,0 +1,2 @@
+ADD_SWIG_CGAL_JAVA_MODULE (Convex_hull_3)
+ADD_SWIG_CGAL_PYTHON_MODULE (Convex_hull_3)
